@@ -1,0 +1,11 @@
+digraph G{ 
+  subgraph cluster_0 { 
+style = filled;
+		color = lightgrey;
+	node[style = filled,color = white];
+Nodo00D48DB8[ label = "0" ];
+
+label = Lista1 #1
+	;
+} 
+ }

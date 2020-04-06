@@ -1,0 +1,12 @@
+digraph G{ 
+  	rankdir = LR;  
+  subgraph cluster_0 { 
+style = filled;
+		color = 	azure2;
+	node[shape=Msquare style = filled, color = darkslategray text=white gradientangle=90];
+Nodo0148C7C0[ label = "dasddas" ];
+Nodo0148C7C0->Nodo0148C7C0;Nodo0148C7C0->Nodo0148C7C0;
+label = DiccionariodePalabras #1
+	;
+} 
+ }

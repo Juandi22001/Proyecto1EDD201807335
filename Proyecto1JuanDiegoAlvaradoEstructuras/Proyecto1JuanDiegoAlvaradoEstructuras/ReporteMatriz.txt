@@ -1,0 +1,62 @@
+digraph G{ 
+  subgraph cluster_0 { 
+style = filled;
+		color = lightgrey;
+	node[style = filled,color = white];
+{rank = same;Nodo00D36850[ label = "0"];
+Nodo00D36850->Nodo00D41A38[dir = both];Nodo00D41A38[ label = "1"];
+Nodo00D41A38->Nodo00D41498[dir = both];Nodo00D41498[ label = "2"];
+Nodo00D41498->Nodo00D416C8[dir = both];Nodo00D416C8[ label = "3"];
+Nodo00D416C8->Nodo00D41768[dir = both];Nodo00D41768[ label = "4"];
+Nodo00D41768->Nodo00D414E8[dir = both];Nodo00D414E8[ label = "5"];
+Nodo00D414E8->Nodo00D419E8[dir = both];Nodo00D419E8[ label = "6"];
+Nodo00D419E8->Nodo00D41588[dir = both];Nodo00D41588[ label = "7"];
+}Nodo00D36850[ label = "0"];
+Nodo00D36850->Nodo00D417B8[dir = both];Nodo00D417B8[ label = "1"];
+Nodo00D417B8->Nodo00D41948[dir = both];Nodo00D41948[ label = "2"];
+Nodo00D41948->Nodo00D41538[dir = both];Nodo00D41538[ label = "3"];
+Nodo00D41538->Nodo00D418F8[dir = both];Nodo00D418F8[ label = "4"];
+Nodo00D418F8->Nodo00D41858[dir = both];Nodo00D41858[ label = "7"];
+{rank = same;Nodo00D417B8[ label = "1"];
+Nodo00D41998[ label = "-"];
+Nodo00D417B8->Nodo00D41998[dir = both];Nodo00D41628[ label = "e"];
+Nodo00D41998->Nodo00D41628[dir = both];Nodo00D41678[ label = "x"];
+Nodo00D41628->Nodo00D41678[dir = both];Nodo00D41718[ label = "y"];
+Nodo00D41678->Nodo00D41718[dir = both];Nodo00D41A88[ label = "J"];
+Nodo00D41718->Nodo00D41A88[dir = both];Nodo00D41B78[ label = "e"];
+Nodo00D41A88->Nodo00D41B78[dir = both];}Nodo00D41B78[ label = "s"];
+{rank = same;Nodo00D41948[ label = "2"];
+Nodo00D415D8[ label = "-"];
+Nodo00D41948->Nodo00D415D8[dir = both];Nodo00D41AD8[ label = "d"];
+Nodo00D415D8->Nodo00D41AD8[dir = both];}Nodo00D41AD8[ label = "r"];
+{rank = same;Nodo00D41538[ label = "3"];
+Nodo00D41B28[ label = "-"];
+Nodo00D41538->Nodo00D41B28[dir = both];}Nodo00D41B28[ label = "h"];
+{rank = same;Nodo00D418F8[ label = "4"];
+Nodo00D418A8[ label = "-"];
+Nodo00D418F8->Nodo00D418A8[dir = both];}Nodo00D418A8[ label = "r"];
+{rank = same;Nodo00D41A38[ label = "1"];
+Nodo00D41998[ label = "-"];
+Nodo00D41A38->Nodo00D41998[dir = both];}Nodo00D41998[ label = "e"  ];
+{rank = same;Nodo00D41498[ label = "2"];
+Nodo00D41628[ label = "-"];
+Nodo00D41498->Nodo00D41628[dir = both];}Nodo00D41628[ label = "x"  ];
+{rank = same;Nodo00D416C8[ label = "3"];
+Nodo00D41678[ label = "-"];
+Nodo00D416C8->Nodo00D41678[dir = both];Nodo00D41AD8[ label = "y"];
+Nodo00D41678->Nodo00D41AD8[dir = both];Nodo00D41B28[ label = "r"];
+Nodo00D41AD8->Nodo00D41B28[dir = both];}Nodo00D41B28[ label = "h"  ];
+{rank = same;Nodo00D41768[ label = "4"];
+Nodo00D41718[ label = "-"];
+Nodo00D41768->Nodo00D41718[dir = both];}Nodo00D41718[ label = "J"  ];
+{rank = same;Nodo00D414E8[ label = "5"];
+Nodo00D41A88[ label = "-"];
+Nodo00D414E8->Nodo00D41A88[dir = both];}Nodo00D41A88[ label = "e"  ];
+{rank = same;Nodo00D419E8[ label = "6"];
+Nodo00D41B78[ label = "-"];
+Nodo00D419E8->Nodo00D41B78[dir = both];}Nodo00D41B78[ label = "s"  ];
+
+label = MATRIZ
+	;
+} 
+ }

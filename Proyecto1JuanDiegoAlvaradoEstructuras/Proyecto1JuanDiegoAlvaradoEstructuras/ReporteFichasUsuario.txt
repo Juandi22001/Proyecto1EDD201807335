@@ -1,0 +1,22 @@
+digraph G{ 
+  subgraph cluster_0 { 
+style = filled;
+		color = lightgrey;
+	node[style = filled,color = white];
+Nodo016ED370[ label = "s" ];
+Nodo016ED370->Nodo016ED6B0;Nodo016ED6B0->Nodo016ED370;Nodo016ED6B0[ label = "c" ];
+Nodo016ED6B0->Nodo016ED570;Nodo016ED570->Nodo016ED6B0;Nodo016ED570[ label = "x" ];
+Nodo016ED570->Nodo016ED1F0;Nodo016ED1F0->Nodo016ED570;Nodo016ED1F0[ label = "h" ];
+Nodo016ED1F0->Nodo016ED2F0;Nodo016ED2F0->Nodo016ED1F0;Nodo016ED2F0[ label = "a" ];
+Nodo016ED2F0->Nodo016ED5B0;Nodo016ED5B0->Nodo016ED2F0;Nodo016ED5B0[ label = "b" ];
+Nodo016ED5B0->Nodo016ED230;Nodo016ED230->Nodo016ED5B0;Nodo016ED230[ label = "n" ];
+Nodo016ED230->Nodo016ED0B0;Nodo016ED0B0->Nodo016ED230;Nodo016ED0B0[ label = "e" ];
+Nodo016ED0B0->Nodo016ED130;Nodo016ED130->Nodo016ED0B0;Nodo016ED130[ label = "r" ];
+Nodo016ED130->Nodo016ED070;Nodo016ED070->Nodo016ED130;Nodo016ED070[ label = "i" ];
+Nodo016ED070->Nodo016ED530;Nodo016ED530->Nodo016ED070;Nodo016ED530[ label = "a" ];
+Nodo016ED530->Nodo016ED0F0;Nodo016ED0F0->Nodo016ED530;Nodo016ED0F0[ label = "d" ];
+
+label = Lista1 #1
+	;
+} 
+ }

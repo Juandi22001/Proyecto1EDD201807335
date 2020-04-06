@@ -1,0 +1,20 @@
+digraph G{ 
+  subgraph cluster_0 { 
+style = filled;
+		color = lightgrey;
+	node[style = filled,color = white];
+{rank = same;Nodo013D3B28[ label = "0" Dir=both ];
+Nodo013D3B28->Nodo013DFAD8;Nodo013DFAD8[ label = "2" Dir=both ];
+Nodo013DFAD8->Nodo013DFB20;Nodo013DFB20[ label = "4" Dir=both ];
+}Nodo013D3B28[ label = "0" Dir=both  ];
+Nodo013D3B28->Nodo013DFD18;Nodo013DFD18[ label = "2" Dir=both  ];
+Nodo013DFD18->Nodo013DFB68;Nodo013DFB68[ label = "5" Dir=both ];
+Nodo013DFB20[ label = "-" Dir=both ];
+Nodo013DFAD8->Nodo013DFA90;Nodo013DFA90[ label = "s"  Dir=both];
+Nodo013DFA90[ label = "-"  Dir=both];
+Nodo013DFD18->Nodo013DFA90;Nodo013DFA90[ label = "s" Dir=both];
+
+label = MATRIZ
+	;
+} 
+ }

@@ -1,0 +1,12 @@
+digraph G{ 
+  subgraph cluster_0 { 
+style = filled;
+		color = lightgrey;
+	node[style = filled,color = white];
+Nodo016C3F68[ label = "lucas" ];
+Nodo016C3F68->Nodo016C4598;Nodo016C4598[ label = "juan" ];
+
+label = ListaPosOrden #1
+	;
+} 
+ }

@@ -1,0 +1,147 @@
+﻿  Proyecto1Edd.cpp
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(12,33): error C2601:  'gotoxy15': las definiciones de funciones locales no son válidas
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\Score.h(186): message :  esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(49,12): error C2059:  error de sintaxis: ';'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(55,17): error C2653:  'EnOrden': no es un nombre de clase o espacio de nombres
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(55,30): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(57,2): error C2065:  'Puntaje': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(58,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(59,1): warning C4508:  'EnOrden': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(60,17): error C2653:  'EnOrden': no es un nombre de clase o espacio de nombres
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(60,33): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(62,2): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(63,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(64,1): warning C4508:  'EnOrden': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(67,22): error C2653:  'EnOrden': no es un nombre de clase o espacio de nombres
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(68,11): error C2065:  'NuevoNodo': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(68,21): error C2563:  hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(68,34): error C2061:  error de sintaxis: identificador 'EnOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(69,5): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(71,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(71,15): error C2065:  'NuevoNodo': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(72,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(72,15): error C2065:  'NuevoNodo': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(78,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(78,20): error C2065:  'NuevoNodo': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(79,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(79,15): error C2065:  'NuevoNodo': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(80,3): error C2065:  'NuevoNodo': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(86,18): error C2653:  'EnOrden': no es un nombre de clase o espacio de nombres
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(87,11): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(87,18): error C2563:  hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(87,20): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(91,9): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(93,21): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(94,3): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(94,12): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(98,20): error C2653:  'EnOrden': no es un nombre de clase o espacio de nombres
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(99,11): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(99,18): error C2563:  hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(99,20): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(118,9): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(119,26): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(119,54): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(120,7): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(122,27): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(123,27): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(126,3): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(126,12): error C2065:  'actual': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(141,1): error C2011:  'PosOrden': nueva definición del tipo 'class'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(164,11): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(164,22): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(165,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(166,2): error C2065:  'Puntaje': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(167,2): error C2065:  'Pri': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(168,2): error C2065:  'Ult': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(170,1): warning C4508:  '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(171,11): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(171,32): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(173,2): error C2065:  'Puntaje': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(174,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(175,1): warning C4508:  '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(176,11): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(176,35): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(178,2): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(179,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(180,1): warning C4508:  '{ctor}': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(183,16): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(183,39): error C2084:  la función 'void Agregar(std::string)' ya tiene un cuerpo
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(67): message :  vea la definición anterior de 'Agregar'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(184,44): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(185,5): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(187,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(188,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(194,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(195,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(196,12): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(202,16): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(202,22): error C2084:  la función 'void Ver(void)' ya tiene un cuerpo
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(86): message :  vea la definición anterior de 'Ver'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(203,21): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(209,27): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(210,18): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(214,16): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(214,24): error C2084:  la función 'void Grafo(void)' ya tiene un cuerpo
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(98): message :  vea la definición anterior de 'Grafo'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(215,21): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(235,60): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(236,6): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(239,33): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(242,18): error C2027:  uso del tipo 'PosOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(140): message :  vea la declaración de 'PosOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(276,1): error C2011:  'PreOrden': nueva definición del tipo 'class'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(299,11): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(299,22): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(299,22): error C2084:  la función 'int {ctor}(void)' ya tiene un cuerpo
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(164): message :  vea la definición anterior de '{ctor}'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(300,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(301,2): error C2065:  'Puntaje': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(302,2): error C2065:  'Pri': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(303,2): error C2065:  'Ult': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(306,11): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(306,32): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(306,32): error C2084:  la función 'int {ctor}(int)' ya tiene un cuerpo
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(171): message :  vea la definición anterior de '{ctor}'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(308,2): error C2065:  'Puntaje': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(309,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(311,11): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(311,35): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(311,35): error C2084:  la función 'int {ctor}(std::string)' ya tiene un cuerpo
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(176): message :  vea la definición anterior de '{ctor}'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(313,2): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(314,2): error C2065:  'sig': identificador no declarado
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(318,16): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(319,44): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(320,5): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(322,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(323,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(329,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(330,3): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(331,12): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(337,16): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(338,21): error C2355:  'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(344,27): error C2027:  uso del tipo 'PreOrden' sin definir
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(275): message :  vea la declaración de 'PreOrden'
+C:\Users\JUAN DIEGO ALVARADO\source\repos\Proyecto1Edd\Proyecto1Edd\EnOrden.h(344,27): error C1003:  el recuento de errores supera 100; se detiene la compilación
